@@ -27,7 +27,7 @@ menu:
       weight: 300
     - identifier: viajes
       name: Viajes
-      url: /viajes
+      url: /viajes/
       weight: 300
     - identifier: blog
       name: Blog
