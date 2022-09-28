@@ -1,3 +1,55 @@
-baseURL: http://example.org/
-languageCode: en-us
-title: My New Hugo Site
+baseURL: https://example.org/
+languageCode: es-es 
+title: Acme Corporation 
+theme: Eclectic 
+author: 
+  facebook: "https://www.instagram.com/javiazcau_ktr/" 
+  twitter: "https://twitter.com/example" 
+  email: "contact@example.org" 
+  name: "Acme Corporation" 
+  location: Zaragoza
+  phone: (999) 999-9999 
+  hours: "**Lunes-Viernes** 9:00AM - 6:00PM" 
+
+menu:
+  main: 
+    - identifier: about 
+      name: Acerca de 
+      url: /AcercaDe 
+      weight: 100 
+    - identifier: contact
+      name: Contacto 
+      url: /Contacto 
+      weight: 200 
+    - identifier: curriculum 
+      name: Curriculum 
+      url: /curriculum 
+      weight: 300
+    - identifier: viajes
+      name: Viajes
+      url: /viajes
+      weight: 300
+    - identifier: blog
+      name: Blog
+      url: /blog
+      weight: 300
+params: 
+  color: "#4f46e5"
+  copyright: "Copyright &copy; 2022 Acme Corporation. Todos los derechos reservados."
+  footer:
+  - title: About
+    content: >
+      Acme Corporation is the world's leading
+      manufacturer of digital shapes. From squares and
+      circles to triangles and hexagons, we have it
+      all. Browse through our collection of various
+      forms with different thicknesses and line styles.
+      We shape the world. You live in it.      
+
+
+  - title: Publicaciones recientes
+    recents: blog
+    recentCount: 7
+
+  - title: Contact Us
+    contact: true
