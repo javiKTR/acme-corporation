@@ -1,7 +1,8 @@
 baseURL: https://example.org/
 languageCode: es-es 
 title: Acme Corporation 
-theme: Eclectic 
+theme: basico
+ 
 author: 
   facebook: "https://www.instagram.com/javiazcau_ktr/" 
   twitter: "https://twitter.com/example" 
