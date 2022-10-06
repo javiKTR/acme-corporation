@@ -18,6 +18,10 @@ menu:
       name: Peliculas
       url: /Peliculas/mas-valoradas 
       weight: 100 
+    - identifier: centros 
+      name: Centros
+      url: / 
+      weight: 100 
     - identifier: about 
       name: Acerca de 
       url: /AcercaDe 
