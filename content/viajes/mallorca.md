@@ -1,7 +1,7 @@
 ---
 title: "Mallorca"
 date: 2022-09-28T09:56:54+02:00
-draft: true
+draft: false
 ---
 ## Mallorca
 

@@ -3,7 +3,7 @@ date: {{ .Date }}
 type: post
 title: "{{ replace .Name "-" " " | title }}"
 description: "Placeholder"
-draft: true
+draft: false
 tags:
 sidebar:
   - title: attribution
