@@ -20,7 +20,7 @@ menu:
       weight: 100 
     - identifier: centros 
       name: Centros
-      url: / 
+      url: /centros
       weight: 100 
     - identifier: about 
       name: Acerca de 
