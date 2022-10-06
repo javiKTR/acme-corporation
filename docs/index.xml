@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ACME Corp. on Acme Corp.</title>
+    <link>http://dwes-le.github.io/acme/</link>
+    <description>Recent content in ACME Corp. on Acme Corp.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
+    <webMaster>contact@example.org (Acme Corporation)</webMaster>
+    <lastBuildDate>Wed, 21 Sep 2022 08:53:45 +0200</lastBuildDate><atom:link href="http://dwes-le.github.io/acme/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Institutos</title>
+      <link>http://dwes-le.github.io/acme/centros/institutos/</link>
+      <pubDate>Mon, 03 Oct 2022 10:33:07 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>http://dwes-le.github.io/acme/centros/institutos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mas Valoradas</title>
+      <link>http://dwes-le.github.io/acme/peliculas/mas-valoradas/</link>
+      <pubDate>Mon, 03 Oct 2022 09:35:58 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>http://dwes-le.github.io/acme/peliculas/mas-valoradas/</guid>
+      <description>Películas más valoradas Datos de imdb.com</description>
+    </item>
+    
+    <item>
+      <title>Televisión</title>
+      <link>http://dwes-le.github.io/acme/television/canales/</link>
+      <pubDate>Thu, 29 Sep 2022 12:16:26 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>http://dwes-le.github.io/acme/television/canales/</guid>
+      <description>Canales de televisión en internet bla bla bla</description>
+    </item>
+    
+    <item>
+      <title>Tokio</title>
+      <link>http://dwes-le.github.io/acme/viajes/tokio/</link>
+      <pubDate>Wed, 28 Sep 2022 11:02:43 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>http://dwes-le.github.io/acme/viajes/tokio/</guid>
+      <description>Viaje a Japón </description>
+    </item>
+    
+    <item>
+      <title>Primer Post</title>
+      <link>http://dwes-le.github.io/acme/blog/primer-post/</link>
+      <pubDate>Mon, 26 Sep 2022 10:55:08 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>http://dwes-le.github.io/acme/blog/primer-post/</guid>
+      <description>Bla bla bla</description>
+    </item>
+    
+    <item>
+      <title>Pirineo</title>
+      <link>http://dwes-le.github.io/acme/viajes/pirineo/</link>
+      <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>http://dwes-le.github.io/acme/viajes/pirineo/</guid>
+      <description>Viajes de verano Aragón
+Soy de Madrid y más castiza que el chotis. Pero tengo muy claro que me gustaría retirarme en el Pirineo. Y es que tiene todo lo que necesito: buena gastronomía, paisajes de infarto, rutas de senderismo para todos los gustos y niveles, pueblos preciosos, actividades deportivas tanto en invierno como en verano, buena gente… Por eso, cuando alguien me pregunta qué hacer en el Pirineo aragonés siempre respondo lo mismo: depende de lo que busques y del plan que lleves.</description>
+    </item>
+    
+    <item>
+      <title>Paris</title>
+      <link>http://dwes-le.github.io/acme/viajes/paris/</link>
+      <pubDate>Wed, 21 Sep 2022 09:44:48 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>http://dwes-le.github.io/acme/viajes/paris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contacto</title>
+      <link>http://dwes-le.github.io/acme/contacto/</link>
+      <pubDate>Wed, 21 Sep 2022 08:53:45 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>http://dwes-le.github.io/acme/contacto/</guid>
+      <description>Datos de contacto </description>
+    </item>
+    
+    <item>
+      <title>Curriculum</title>
+      <link>http://dwes-le.github.io/acme/curriculum/</link>
+      <pubDate>Wed, 21 Sep 2022 08:53:45 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>http://dwes-le.github.io/acme/curriculum/</guid>
+      <description>Mi curriculum Mi nombre es luis, soy profesor de &amp;hellip;
+uno dos tres uno dos tres </description>
+    </item>
+    
+  </channel>
+</rss>

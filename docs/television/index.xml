@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Televisions on Acme Corp.</title>
+    <link>http://dwes-le.github.io/acme/television/</link>
+    <description>Recent content in Televisions on Acme Corp.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
+    <webMaster>contact@example.org (Acme Corporation)</webMaster>
+    <lastBuildDate>Thu, 29 Sep 2022 12:16:26 +0200</lastBuildDate><atom:link href="http://dwes-le.github.io/acme/television/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Televisión</title>
+      <link>http://dwes-le.github.io/acme/television/canales/</link>
+      <pubDate>Thu, 29 Sep 2022 12:16:26 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>http://dwes-le.github.io/acme/television/canales/</guid>
+      <description>Canales de televisión en internet bla bla bla</description>
+    </item>
+    
+  </channel>
+</rss>

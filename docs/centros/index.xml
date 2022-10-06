@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Centros on Acme Corp.</title>
+    <link>http://dwes-le.github.io/acme/centros/</link>
+    <description>Recent content in Centros on Acme Corp.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
+    <webMaster>contact@example.org (Acme Corporation)</webMaster>
+    <lastBuildDate>Mon, 03 Oct 2022 10:33:07 +0200</lastBuildDate><atom:link href="http://dwes-le.github.io/acme/centros/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Institutos</title>
+      <link>http://dwes-le.github.io/acme/centros/institutos/</link>
+      <pubDate>Mon, 03 Oct 2022 10:33:07 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>http://dwes-le.github.io/acme/centros/institutos/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
